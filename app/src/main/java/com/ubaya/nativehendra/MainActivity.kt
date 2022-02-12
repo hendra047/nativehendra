@@ -6,6 +6,7 @@ import android.os.Bundle
 class MainActivity : AppCompatActivity() {
     // perlu bikin fitur login
     var login:Boolean = false
+    var count:Int = 0
 
     //grace nambah :)
     var name = ""
