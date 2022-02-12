@@ -7,6 +7,10 @@ class MainActivity : AppCompatActivity() {
     // perlu bikin fitur login
     var login:Boolean = false
 
+    //grace nambah :)
+    var name = ""
+    var time = ""
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
