@@ -11,6 +11,8 @@ class MainActivity : AppCompatActivity() {
     //grace nambah :)
     var name = ""
     var time = ""
+    var password = ""
+    var username = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
