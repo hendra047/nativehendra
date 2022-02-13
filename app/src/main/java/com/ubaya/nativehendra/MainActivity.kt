@@ -17,6 +17,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
+    // function login
+    fun login(){
+
+    }
+
     fun dashboard() {
 
     }
